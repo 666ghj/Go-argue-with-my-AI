@@ -6,7 +6,7 @@
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/9e96d20c-93fd-469e-87c9-e1d9e372f955" alt="1" width="48%">
-  <img src="https://github.com/user-attachments/assets/97477e7c-aa83-4eb8-aaf2-8ea7db4495ba" alt="1_watermarked" width="48%">
+  <img src="https://github.com/user-attachments/assets/27d83689-c52a-4eed-bc04-931d9b6fb32f" alt="1_watermarked" width="48%">
 </p>
 
 ## 快速开始
